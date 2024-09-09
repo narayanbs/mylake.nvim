@@ -79,7 +79,7 @@ local groups = {
 	Cursor = { fg = "c00", bg = "c05" },
 	NonText = { fg = "c03" },
 	Whitespace = { fg = "c02" },
-	LineNr = { fg = "c03", bg = "c01" },
+	LineNr = { fg = "c03", bg = "c00" },
 	SignColumn = { fg = "c03", bg = "c01" },
 	StatusLine = { fg = "c04", bg = "c02" },
 	StatusLineNC = { fg = "c03", bg = "c01" },
