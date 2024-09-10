@@ -2,7 +2,7 @@ local M = {}
 
 ---@class LakeColors
 M.colors_default = {
-	c00 = "#2b303b",
+	c00 = "#28282b",
 	c01 = "#343d46",
 	c02 = "#4f5b66",
 	c03 = "#65737e",
@@ -114,7 +114,7 @@ local groups = {
 	Boolean = { fg = "c09" },
 	Character = { fg = "c05" },
 	Comment = { fg = "c03" },
-	Conditional = { fg = "c0E" },
+	Conditional = { fg = "c0F" },
 	Constant = { fg = "c05" },
 	Define = { fg = "c0E" },
 	Delimiter = { fg = "c0F" },
